@@ -12,11 +12,11 @@ cd dist
 # если вы публикуете на пользовательский домен
 # echo 'www.example.com' > CNAME
 
-# git init
+git init
 git add -A
 git commit -m 'deploy TRLogic'
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:z-igor/z-igor.github.io.git master
+git push -f git@github.com:z-igor/vue-widget_gh-ps.git master:gh-pages
 
 cd -

@@ -1,6 +1,6 @@
 ## TRLogic
 
-### Книга контактов
+### [Книга контактов](https://z-igor.github.io/vue-widget_gh-ps/)
 
 - Страница 1 - Список контактов :heavy_check_mark:
 - Страница 2 - Контактная информация выбранного контакта :heavy_check_mark:

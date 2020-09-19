@@ -1,6 +1,5 @@
 module.exports = {
   lintOnSave: false,
-  publicPath: process.env.NODE_ENV === 'production' ?
-    '/z-igor.github.io/works/trlogic/gh-pages' :
-    '/'
+  publicPath: process.env.NODE_ENV === "production" ?
+    "/vue-widget_gh-ps/" : "/"
 };
