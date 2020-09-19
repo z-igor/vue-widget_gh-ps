@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy TRLogic'
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:z-igor/vue-widget_gh-ps.git dev:gh-pages
+git push -f git@github.com:z-igor/vue-widget_gh-ps.git master:gh-pages
 
 cd -
