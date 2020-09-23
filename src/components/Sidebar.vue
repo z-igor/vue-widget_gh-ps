@@ -22,10 +22,11 @@
         </router-link>
       </li>
       <li class="sidebar-list">
-        <router-link to="/todos" active-class="active">
+        <router-link to="/" active-class="active">
+          <!-- to="todos" -->
           <i class="indicators" v-show="getNotification.todos">&#9679;</i>
           <fa-icon :icon="['fa', 'check-double']" size="1x" />
-          <p>Todos</p>
+          <p>Todos (404)</p>
         </router-link>
       </li>
     </ul>
